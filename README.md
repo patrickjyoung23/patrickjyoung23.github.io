@@ -12,9 +12,9 @@
 <meta property="og:locale" content="en_US" />
 <link rel="canonical" href="http://thisblogrocks.xyz/" />
 <meta property="og:url" content="http://thisblogrocks.xyz/" />
-<meta property="og:site_name" content="patrickjyoung23.github.io" />
+<meta property="og:site_name" content="thisblogrocks.xyz" />
 <script type="application/ld+json">
-{"@type":"WebSite","headline":"patrickjyoung23.github.io","url":"http://thisblogrocks.xyz/","name":"patrickjyoung23.github.io","@context":"https://schema.org"}</script>
+{"@type":"WebSite","headline":"thisblogrocks.xyz","url":"http://thisblogrocks.xyz/","name":"patrickjyoung23.github.io","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/assets/css/style.css?v=c81bcd1f99276c581e26d29ae7ef554a9ef07b4b">
