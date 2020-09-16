@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>thisblogrocks.xyz</title>
+<title>patrickjyoung23.github.io</title>
 <meta name="generator" content="Jekyll v3.9.0" />
 <meta property="og:title" content="patrickjyoung23.github.io" />
 <meta property="og:locale" content="en_US" />
@@ -23,7 +23,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="http://thisblogrocks.xyz/">thisblogrocks.xyz</a></h1>
+      <h1><a href="http://thisblogrocks.xyz/">patrickjyoung23.github.io</a></h1>
       
 
       <html class="no-js" lang="en">
