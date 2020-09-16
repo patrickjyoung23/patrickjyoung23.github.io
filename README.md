@@ -1,3 +1,5 @@
+
+<!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -13,7 +15,7 @@
 <meta property="og:url" content="http://thisblogrocks.xyz/" />
 <meta property="og:site_name" content="patrickjyoung23.github.io" />
 <script type="application/ld+json">
-{"@type":"WebSite","headline":"url":"http://thisblogrocks.xyz/","name":"patrickjyoung23.github.io","@context":"https://schema.org"}</script>
+{"@type":"WebSite","headline":"patrickjyoung23.github.io","url":"http://thisblogrocks.xyz/","name":"patrickjyoung23.github.io","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/assets/css/style.css?v=c81bcd1f99276c581e26d29ae7ef554a9ef07b4b">
