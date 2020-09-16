@@ -21,7 +21,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="http://thisblogrocks.xyz/">patrickjyoung23.github.io</a></h1>
+      <h1><a href="http://thisblogrocks.xyz/">thisblogrocks.xyz</a></h1>
       
 
       <html class="no-js" lang="en">
